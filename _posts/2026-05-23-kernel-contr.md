@@ -15,13 +15,9 @@ After completing the tutorial series and setting up the development environment,
 
 For this task, I worked together with a colleague. Our goal was to make a contribution to the kernel and go through the entire development and review process until the patch was accepted upstream.
 
-The patch I was mainly responsible for modified the driver `drivers/iio/gyro/adxrs290.c` and can be found on Lore:
+The patch I was mainly responsible for modified the driver `drivers/iio/gyro/adxrs290.c` and can be found on Lore [here](https://lore.kernel.org/all/20260504190455.9841-1-guilhermeabreu200105@usp.br/).
 
-https://lore.kernel.org/all/20260504190455.9841-1-guilhermeabreu200105@usp.br/
-
-At the same time, I also helped with another patch that modified `drivers/counter/intel-qep.c`, available here:
-
-https://lore.kernel.org/all/20260512173058.14858-1-jplinaris@usp.br/
+At the same time, I also helped with another patch that modified `drivers/counter/intel-qep.c`, available [here](https://lore.kernel.org/all/20260512173058.14858-1-jplinaris@usp.br/).
 
 Both contributions involved modernizing lock handling code using the newer guard lock infrastructure adopted by the kernel.
 
