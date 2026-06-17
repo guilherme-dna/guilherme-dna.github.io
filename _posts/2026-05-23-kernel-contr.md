@@ -117,3 +117,8 @@ Overall, contributing to the Linux kernel was a great experience. Besides learni
 What started as a relatively small cleanup patch ended up teaching lessons about software quality, maintainability, collaboration, and attention to detail that go far beyond this specific contribution.
 
 I would also like to thank FLUSP for providing the tutorials, infrastructure, and support that made this contribution possible.
+
+
+[Stray_change](https://lore.kernel.org/all/20260423223958.100487-1-guilhermeabreu200105@usp.br/)
+
+[Chatting](https://lore.kernel.org/all/20260430200515.7915-1-guilhermeabreu200105@usp.br/)
